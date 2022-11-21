@@ -34,6 +34,7 @@ under two different licences:
   any third party from reincorporating your changes into the original
   manuals.
 
+
 Other relevant files:
 
 - License: a statement that the wxCL library is
